@@ -1,16 +1,15 @@
-# WEB103 Prework - *👉🏿 Creatorverse*
+# WEB103 Prework - *Creatorverse*
 
-Submitted by: **👉🏿 Tram Tran**
+Submitted by: **Tram Tran**
 
-About this web app: **👉🏿 Creatorverse is a React-based web application that connects users with their favorite content creators. The app features a logical component structure and provides an intuitive interface for browsing, viewing, and managing content creator profiles.**
+About this web app: **Creatorverse is a React-based web application that connects users with their favorite content creators. The app features a logical component structure and provides an intuitive interface for browsing, viewing, and managing content creator profiles.**
 
-Time spent: **👉🏿 5** hours
+Time spent: **5** hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -40,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
@@ -55,7 +54,7 @@ Ensuring that forms for adding and editing creators worked correctly with state 
 
 ## License
 
-Copyright [👉🏿 2025] [👉🏿 Tram Tran]
+Copyright 2025 Tram Tran
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
