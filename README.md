@@ -39,14 +39,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/db84dc71585b4835bcdf216b7f423551">
+      <p>Video Walkthrough - CodePath WEB103 Prework - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/db84dc71585b4835bcdf216b7f423551">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/db84dc71585b4835bcdf216b7f423551-ce1a87af1dbb9ce0-full-play.gif">
+    </a>
+  </div>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Loom.
 
 ## Notes
 
