@@ -1,12 +1,64 @@
-# React + Vite
+# WEB103 Prework - *👉🏿 Creatorverse*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **👉🏿 Tram Tran**
 
-Currently, two official plugins are available:
+About this web app: **👉🏿 Creatorverse is a React-based web application that connects users with their favorite content creators. The app features a logical component structure and provides an intuitive interface for browsing, viewing, and managing content creator profiles.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **👉🏿 5** hours
 
-## Expanding the ESLint configuration
+## Required Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The following **required** functionality is completed:
+
+<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
+- [x] **A logical component structure in React is used to create the frontend of the app**
+- [x] **At least five content creators are displayed on the homepage of the app**
+- [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
+- [x] **API calls use the async/await design pattern via Axios or fetch()**
+- [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
+- [x] **Each content creator has their own unique URL**
+- [x] **The user can edit a content creator to change their name, url, or description**
+- [x] **The user can delete a content creator**
+- [x] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
+
+The following **optional** features are implemented:
+
+- [ ] Picocss is used to style HTML elements
+- [ ] The content creator items are displayed in a creative format, like cards instead of a list
+- [ ] An image of each content creator is shown on their content creator card
+
+The following **additional** features are implemented:
+
+* [x] Gradient, centered heading – The main heading “Creatorverse” now has a blue-to-indigo gradient and is centered for better visual appeal.
+* [x] Light blue background – The app has a soft light-blue background (bg-blue-100) for a cleaner, more inviting look.
+* [x] Centered buttons – All action buttons (Add Creator, Edit, Delete) are centered and visually consistent.
+* [x] Styled Creator cards – Creator cards have padding, rounded corners, shadow, and hover effects to improve readability and interactivity.
+* [x] Responsive layout – Creator cards wrap to fit different screen sizes, making the app mobile-friendly.
+* [x] Loading indicators – A simple “Loading…” message appears when fetching data from the database.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  👉🏿 GIF tool here
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Ensuring that forms for adding and editing creators worked correctly with state management, async/await API calls, and navigation required careful handling of inputs and updating the database reliably.
+
+## License
+
+Copyright [👉🏿 2025] [👉🏿 Tram Tran]
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+> http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
