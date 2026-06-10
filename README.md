@@ -27,21 +27,6 @@ The following **additional** features are implemented:
 * [x] Responsive layout: Creator cards wrap to fit different screen sizes, making the app mobile-friendly.
 * [x] Loading indicators: A simple “Loading…” message appears when fetching data from the database.
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-<div>
-    <a href="https://www.loom.com/share/bd3d3d4633ef455ea6a0f551745188f4">
-      <p>CodePath Web 103 - Project 1 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/bd3d3d4633ef455ea6a0f551745188f4">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bd3d3d4633ef455ea6a0f551745188f4-ec4294bf5ccac48e-full-play.gif#t=0.1">
-    </a>
-  </div>
-
-GIF created with Loom.
-
 ## Notes
 
 Ensuring that forms for adding and editing creators worked correctly with state management, async/await API calls, and navigation required careful handling of inputs and updating the database reliably.
