@@ -20,12 +20,12 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-* [x] Gradient, centered heading – The main heading “Creatorverse” now has a blue-to-indigo gradient and is centered for better visual appeal.
-* [x] Light blue background – The app has a soft light-blue background (bg-blue-100) for a cleaner, more inviting look.
-* [x] Centered buttons – All action buttons (Add Creator, Edit, Delete) are centered and visually consistent.
-* [x] Styled Creator cards – Creator cards have padding, rounded corners, shadow, and hover effects to improve readability and interactivity.
-* [x] Responsive layout – Creator cards wrap to fit different screen sizes, making the app mobile-friendly.
-* [x] Loading indicators – A simple “Loading…” message appears when fetching data from the database.
+* [x] Gradient, centered heading: The main heading “Creatorverse” now has a blue-to-indigo gradient and is centered for better visual appeal.
+* [x] Light blue background: The app has a soft light-blue background (bg-blue-100) for a cleaner, more inviting look.
+* [x] Centered buttons: All action buttons (Add Creator, Edit, Delete) are centered and visually consistent.
+* [x] Styled Creator cards: Creator cards have padding, rounded corners, shadow, and hover effects to improve readability and interactivity.
+* [x] Responsive layout: Creator cards wrap to fit different screen sizes, making the app mobile-friendly.
+* [x] Loading indicators: A simple “Loading…” message appears when fetching data from the database.
 
 ## Video Walkthrough
 
